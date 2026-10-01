@@ -5,7 +5,7 @@ A game where you compete against a neural network to tell **real face photos** a
 model reveals its prediction and confidence. After 10 rounds, whoever identified more faces
 correctly wins.
 
-**Play it here:** _add your Streamlit app URL_
+**Play it here:** (https://ai-vs-real-detection-app.streamlit.app/)
 
 ## The model
 Built for CS6180 HW1 at Northeastern University. Five models were trained and compared on
