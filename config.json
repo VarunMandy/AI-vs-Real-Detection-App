@@ -1,0 +1,6 @@
+{
+  "model_name": "MobileNet-FT",
+  "test_acc": 0.7633,
+  "input_scale": 255.0,
+  "image_size": 128
+}
